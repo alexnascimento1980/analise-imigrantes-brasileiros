@@ -1,7 +1,3 @@
-# Análise de Imigrantes Brasileiros para o Canadá
-
-## Análise realizada
-
 # Análise de Imigrantes Brasileiros no Canadá
 
 Este projeto tem como objetivo analisar o perfil e a evolução dos imigrantes brasileiros no Canadá, utilizando dados históricos e técnicas de análise exploratória em Python.
