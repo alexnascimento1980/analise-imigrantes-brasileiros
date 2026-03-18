@@ -20,8 +20,3 @@ As principais bibliotecas utilizadas, listadas em [`requirements.txt`](requireme
 4. **[seaborn](https://seaborn.pydata.org/)** - Visualização estatística de dados.
 5. **[jupyter](https://jupyter.org/)** - Ambiente interativo para notebooks.
 
-## Visualização
-
-![Imigração na América do Sul](imagens/imigracao_america_sul.png)
-
-![Versão](https://img.shields.io/badge/version-1.0-blue)
